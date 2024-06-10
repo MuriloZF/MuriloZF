@@ -1,7 +1,7 @@
-color: purple
+
 
 # Olá! Eu sou o Murilo :)
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3NrzW3v" data-context="false" ><a href="//imgur.com/a/3NrzW3v"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## Sobre mim:
 Olá, me chamo Murilo, sou estudante de Ciência da Computação na PUCPR, atualmente estou no primeiro período.
 - **Estou aprendendo:**
