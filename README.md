@@ -1,7 +1,6 @@
-
-
 # Olá! Eu sou o Murilo :)
 
+<img src="img">
 
 ## Sobre mim:
 Olá, me chamo Murilo, sou estudante de Ciência da Computação na PUCPR, atualmente estou no primeiro período.
