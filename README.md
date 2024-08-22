@@ -2,11 +2,12 @@
 <img src="img">
 
 ## Sobre mim:
-Olá, me chamo Murilo, sou estudante de Ciência da Computação na PUCPR, atualmente estou no primeiro período.
+Olá, me chamo Murilo, sou estudante de Ciência da Computação na PUCPR, atualmente estou no segundo período.
 - **Estou aprendendo:**
   - Python
-  - HTML5
-  - CSS3
+  - HTML
+  - CSS
+  - JavaScript
   - C
 
 - **Como me contatar:**
